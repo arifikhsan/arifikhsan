@@ -4,5 +4,5 @@ Hi, I’m Arif! I’m a software engineer who is passionate about building produ
 
 🌍 Find me on the web:
 
-* Blog: [arifikhsanudin](https://www.arifikhsanudin.my.id)
+* Blog: [arifikhsanudin.now.sh](https://www.arifikhsanudin.now.sh)
 * LinkedIn: [arif-ikhsanudin](https://www.linkedin.com/in/arif-ikhsanudin/)
