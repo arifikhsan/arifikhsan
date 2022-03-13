@@ -6,6 +6,7 @@ Hi, I’m Arif! I’m a software engineer who is passionate about building produ
 
 * Website: [arifikhsanudin.com](https://www.arifikhsanudin.com)
 * LinkedIn: [arif-ikhsanudin](https://www.linkedin.com/in/arif-ikhsanudin/)
-
-<img src="https://github-readme-stats.vercel.app/api?username=arifikhsan&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifikhsan&layout=compact&theme=dark" height=180 />
+<div float="center" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arifikhsan&show_icons=true&theme=dark&count_private=true&hide=contribs,issue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifikhsan&layout=compact&theme=dark&hide_border=true" height=180 />
+</div>
