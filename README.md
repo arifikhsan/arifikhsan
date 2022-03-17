@@ -9,7 +9,8 @@ Hi, I’m Arif! I’m a software engineer who is passionate about building produ
 🍃 Mobile: Flutter  
 🚀 Deployment: Amazon Web Service, Google Cloud Computing, Vercel, Heroku  
 🐘 Database: PostgreSQL, MySQL  
-💡 Editor: Microsoft Visual Studio Code, Intellij IDEA  
+📃 Editor: Microsoft Visual Studio Code, Intellij IDEA
+🍀 CMS: Wordpress, Elementor
 ```
 
 <div float="center" align="center">
