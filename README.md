@@ -1,3 +1,7 @@
+<a href="https://github.com/arifikhsan" target="_blank">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=arifikhsan&label=Profile%20Views&color=0e75b6&style=flat-square&color=blueviolet" />
+</a> 
+
 ### Hey 👋
 
 Hi, I’m Arif! I’m a software engineer who is passionate about building products.
@@ -18,3 +22,5 @@ Hi, I’m Arif! I’m a software engineer who is passionate about building produ
   <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifikhsan&layout=compact&theme=dark&hide_border=true" />
   <img height="145" src="https://github-readme-stats.vercel.app/api?username=arifikhsan&show_icons=true&theme=dark&count_private=true&hide=contribs,issue&hide_border=true" />
 </div>
+
+<p align="center"><img align="center" height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arifikhsan&theme=github_dark" alt="Profile Details" /></p>
