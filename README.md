@@ -18,9 +18,9 @@ Hi, I’m Arif! I’m a software engineer who is passionate about building produ
 🍀 CMS: Wordpress with Elementor
 ```
 
-<div float="center" align="center">
+<!-- <div float="center" align="center">
   <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifikhsan&layout=compact&theme=dark&hide_border=true" />
   <img height="145" src="https://github-readme-stats.vercel.app/api?username=arifikhsan&show_icons=true&theme=dark&count_private=true&hide=contribs,issue&hide_border=true" />
-</div>
+</div> -->
 
 <p align="center"><img align="center" height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arifikhsan&theme=github_dark" alt="Profile Details" /></p>
