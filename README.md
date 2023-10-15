@@ -28,3 +28,6 @@ Hi, I’m Arif! I’m a software engineer who is passionate about building produ
   <img align="center" height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arifikhsan&theme=github_dark" alt="Repo Details" />
   <img align="center" height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arifikhsan&theme=github_dark" alt="Commit Details" />
 </div>
+
+![](https://raw.githubusercontent.com/arifikhsan/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/arifikhsan/github-stats/master/generated/overview.svg#gh-dark-mode-only)
