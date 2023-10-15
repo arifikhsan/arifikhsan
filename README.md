@@ -25,5 +25,6 @@ Hi, I’m Arif! I’m a software engineer who is passionate about building produ
 
 <div align="center">
   <img align="center" height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arifikhsan&theme=github_dark" alt="Profile Details" />
+  <img align="center" height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arifikhsan&theme=github_dark" alt="Repo Details" />
   <img align="center" height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arifikhsan&theme=github_dark" alt="Commit Details" />
 </div>
