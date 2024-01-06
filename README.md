@@ -4,7 +4,7 @@
 
 ### Hey 👋
 
-Hi, I’m Arif! I’m a software engineer who is passionate about building products.
+Hi, I’m Arif! I’m a software engineer who is passionate about building very good software solutions.
 
 ```
 🌏 Language: Ruby, Java, Python, PHP, JavaScript, Dart  
@@ -16,6 +16,7 @@ Hi, I’m Arif! I’m a software engineer who is passionate about building produ
 📃 Editor: Microsoft Visual Studio Code, Intellij IDEA
 🎨 Design: Figma
 🍀 CMS: Wordpress with Elementor
+✅ Task Management: Agile Scrum, Jira, Trello
 ```
 
 <!-- <div float="center" align="center">
