@@ -8,7 +8,7 @@ Hi, I’m Arif! I’m a software engineer who is passionate about building very 
 
 ```
 🌏 Language: Ruby, Java, Python, PHP, JavaScript, Dart  
-⚡ Backend: Ruby on Rails, Laravel, Spring Boot, Express JS, Node JS  
+🦠 Backend: Ruby on Rails, Laravel, Spring Boot, Express JS, Node JS  
 🕸️ Frontend: React Js, Vue Js, Next Js, Nuxt JS  
 🍃 Mobile: Flutter  
 🚀 Deployment: Amazon Web Service, Google Cloud Computing, Vercel, Heroku  
