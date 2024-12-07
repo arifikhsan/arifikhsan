@@ -11,7 +11,8 @@ Hi, I’m Arif! I’m a software engineer who is passionate about building very 
 🦠 Backend: Ruby on Rails, Laravel, Spring Boot, Express JS, Node JS  
 🕸️ Frontend: React Js, Vue Js, Next Js, Nuxt JS  
 🍃 Mobile: Flutter  
-🚀 Deployment: Amazon Web Service, Google Cloud Computing, Vercel, Heroku  
+🚀 Deployment: Amazon Web Service, Google Cloud Computing, Vercel, On Premise VPS  
+🐳 Container: Docker, Docker Compose  
 🐘 Database: PostgreSQL, MySQL, SQL Server  
 📃 Editor: Microsoft Visual Studio Code, Intellij IDEA
 🎨 Design: Figma
