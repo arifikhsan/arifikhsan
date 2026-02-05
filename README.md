@@ -4,7 +4,7 @@
 
 ### Hey 👋
 
-Hi, I’m Arif! I’m a software engineer who is passionate about building very good software solutions.
+I like to make software with good architecture.
 
 ```
 🌏 Language: Ruby, Java, Python, PHP, JavaScript, Dart  
